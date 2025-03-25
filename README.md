@@ -1,4 +1,5 @@
-![Alt text](dac-logo.png?raw=true "DAC AI")
+<img src="dac-logo.png" alt="DAC AI" width="300" />
+
 
 # DAC AI - Intelligent Task Management System
 
