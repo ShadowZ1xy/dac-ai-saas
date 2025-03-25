@@ -1,3 +1,5 @@
+![Alt text](dac-logo.png?raw=true "DAC AI")
+
 # DAC AI - Intelligent Task Management System
 
 DAC AI is an intelligent task management system designed to streamline your workflow with AI-powered task organization. The application helps you organize, track, and manage your tasks efficiently with the assistance of AI.
