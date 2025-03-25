@@ -32,4 +32,4 @@ Visit [https://dacai.zyxi.dev](https://dacai.zyxi.dev) to try out DAC AI.
 
 ## Contact
 
-Created by [Zyxi](https://github.com/zyxi) - feel free to reach out if you have any questions about the project!
+Created by [Zyxi](https://github.com/ShadowZ1xy) - feel free to reach out if you have any questions about the project!
