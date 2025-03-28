@@ -23,7 +23,6 @@ DAC AI is a personal project focused on enhancing productivity by combining task
 
 - Modern web application built with React and Node.js
 - AI integration for task management assistance
-- Responsive design for desktop and mobile use
 - Secure authentication
 
 ## Live Demo
